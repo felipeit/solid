@@ -36,4 +36,4 @@ Embora o Princípio Aberto/Fechado (OCP) ofereça vantagens significativas, como
 É importante equilibrar os benefícios do OCP com as necessidades e complexidades específicas do projeto. Em alguns contextos, a rigidez pode ser preferível à flexibilidade excessiva, especialmente quando se lida com sistemas menores ou menos sujeitos a mudanças. A aplicação adequada do OCP depende do entendimento das necessidades do projeto e da habilidade de prever de forma eficaz as possíveis extensões.
 
 ### Referências
-- Diogo Moreira. "Princípios SOLID". Disponível em: [Padrões de Projeto - Princípios SOLID](https://diogomoreira.gitbook.io/padroes-de-projeto/principios-solid/principios-solid). Acessado em 17/02/2024.
+- Diogo Moreira. "Princípios SOLID". Disponível em: [Padrões de Projeto - Princípios SOLID](https://diogomoreira.gitbook.io/padroes-de-projeto/principios-solid/principios-solid). Acessado em 18/02/2024.
