@@ -1,0 +1,1 @@
+O Princípio de Aberto/Fechado diz que "Objetos ou entidades devem estar abertas para extensão, mas fechadas para modificação".
