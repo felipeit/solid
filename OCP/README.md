@@ -1,3 +1,5 @@
+# Princípio de Aberto/Fechado (OCP) no Design de Software
+
 O Princípio de Aberto/Fechado diz que "Objetos ou entidades devem estar abertas para extensão, mas fechadas para modificação".
 Ou seja, as entidades de software como classes, módulos, funções, etc, devem atender a essa afirmação. Sendo assim, uma classe deve ser facilmente extensível sem a necessidade de alterar o seu código.
 

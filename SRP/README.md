@@ -1,4 +1,4 @@
-## SRP - Princípio da Responsabilidade Única
+# Princípio da Responsabilidade Única (SRP) no Design de Software
 
 O Princípio de Responsabilidade Única (SRP) destaca a importância da coesão, argumentando que uma classe com muitas responsabilidades aumenta o risco de introdução de bugs ao modificar uma de suas responsabilidades, sem que seja percebido. Neste contexto, "responsabilidade" pode ser interpretada como um "motivo para mudança". Robert Martin enfatiza que "uma classe ou módulo deve ter um, e somente um, motivo para ser alterada" (ou reescrita).
 

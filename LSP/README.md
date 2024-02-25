@@ -1,3 +1,4 @@
+# Princípio de Substituição de Liskov (LSP) no Design de Software
 Falando de outra maneira, a visão de "subtipo" defendida por Liskov é baseada na noção da substituição; isto é, se S é um subtipo de T, então os objetos do tipo T, em um programa, podem ser substituídos pelos objetos de tipo S sem que seja necessário alterar as propriedades deste programa. Suponha que uma parte do sistema está utilizando uma determinada funcionalidade. Se essa funcionalidade precisar ser trocada por outra, por meio de polimorfismo dinâmico ou estático, a outra deverá devolver o mesmo tipo de informação, caso contrário, o sistema quebrará.
 
 ![Diagrama LSP 1](LSP_principio_de_substituicao_de_liskov.png)
