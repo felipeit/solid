@@ -11,7 +11,7 @@ Dessa forma, sempre que for necessário implementar uma nova classe, não será 
 
 ![Diagrama OCP 2](OCP_principio_berto_e_fechado_2.png)
 
-### Conclusão
+## Desvantagens e Desafios do OCP
 Embora o Princípio Aberto/Fechado (OCP) ofereça vantagens significativas, como extensibilidade e redução da necessidade de modificar código existente, existem algumas desvantagens potenciais ao seguir rigorosamente esse princípio:
 
 1. **Complexidade Adicional:**

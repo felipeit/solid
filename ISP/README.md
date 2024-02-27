@@ -12,8 +12,8 @@ Ao aplicarmos o princípio de ISP, conseguimos classes e interfaces mais segrega
 
 Usando interfaces mais específicas, quebramos o acoplamento entre as classes clientes, além de tornarmos as implementações mais limpas e coesas.
 
-## Desvantagens e Desafios do ISP
 
+## Desvantagens e Desafios do ISP
 Apesar dos benefícios que o Princípio da Segregação de Interfaces (ISP) traz para o design de software, algumas desvantagens e desafios precisam ser considerados:
 
 1. **Aumento no Número de Interfaces:**

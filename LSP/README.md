@@ -19,7 +19,7 @@ Sim, o Princípio de Substituição de Liskov (LSP) está diretamente relacionad
 
 Em resumo, o LSP está intrinsecamente ligado ao polimorfismo e à herança, ambos fundamentais para a programação orientada a objetos. Ele promove o uso adequado desses conceitos para garantir que as hierarquias de classes se comportem de maneira consistente e que objetos de classes derivadas possam ser usados de maneira polimórfica, sem quebrar a lógica do programa.
 
-### Conclusão
+## Desvantagens e Desafios do LSP
 Embora o Princípio de Substituição de Liskov (LSP) traga benefícios importantes para o design de software, como flexibilidade e extensibilidade, também há desvantagens e desafios associados à sua aplicação. Aqui estão algumas das desvantagens potenciais:
 
 1. **Complexidade Adicional:**
